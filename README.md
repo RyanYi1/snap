@@ -13,3 +13,4 @@ Current Features
 Features to Add
 1. Add blink strength to execute alongside attention
 2. Incorporate method to allow program to execute up to 4 macros (eye detection considered)
+3. Support for Windows
